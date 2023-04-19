@@ -53,3 +53,11 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 [![website](./img/instagram-light.svg)](https://instagram.com/jainik_2502#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/jainik_2502#gh-dark-mode-only)
 
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/jainikbakshi/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686374-66e5e145-3e6d-4767-9f50-090df5eff3e1.png" alt="Jainik Bakshi | LinkedIn"/></a>
+<a href="https://www.instagram.com/jainik_2502/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686621-695fc620-4616-42fb-b6f2-e0aa684fac45.png" alt="Jainik Bakshi | Instagram"/></a>
+<br>
+<br>
+- 💬 For questions and feedback, [Jainik Bakshi](mailto:jainikbakshi@gmail.com?subject=[GitHub]%20Question%20/%20Feedback)
+
