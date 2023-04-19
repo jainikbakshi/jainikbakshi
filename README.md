@@ -1,4 +1,11 @@
 # Hi there, I'm Jainik Bakshi 👋 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80264736/170685085-b25a9293-7233-4675-9f2d-ec7a1de8cfaf.gif">
+</p>
+
+<h2 align="center">
+I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
+</h2> 
 
 
 ## I'm a Computer Science student, Finance enthusiast and a problem solver!!
