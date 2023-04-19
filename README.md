@@ -1,12 +1,10 @@
 
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65659074/232963775-dbb6e772-f935-4e67-b107-081efaa4362b.gif">
 </p>
 
-<br>
+
 ## I'm a Computer Science student 💻, Finance enthusiast and a problem solver!!
-<br>
 ### 🌱 I’m currently learning everything 
 * Data Structures and Algorithms
 * Machine Learning
