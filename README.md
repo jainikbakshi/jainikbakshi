@@ -10,6 +10,11 @@
 * Deep Learning
 * Finanical Markets and Business Analysis
 
+### Technical Skills
+
+### IDEs
+
+### Github Stats
 
 
 ### ⚡ Hobbies: I love to play guitar and read books
