@@ -45,14 +45,6 @@ I'm a Computer Science Student 💻, Writer 📝, and Creative Learner 🎨!
 
 ### ⚡ Hobbies: I love to play guitar and read books
 
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jainikbakshi#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jainikbakshi#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/jainik_2502#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/jainik_2502#gh-dark-mode-only)
-
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/jainikbakshi/"><img align="left" src="https://user-images.githubusercontent.com/80264736/170686374-66e5e145-3e6d-4767-9f50-090df5eff3e1.png" alt="Jainik Bakshi | LinkedIn"/></a>
