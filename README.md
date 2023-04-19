@@ -4,7 +4,7 @@
 </p>
 
 
-## I'm a Computer Science student 💻, Finance enthusiast and a problem solver!!
+## I'm a Computer Science student 💻, Finance enthusiast 📈 and a problem solver 🧑‍💻!!
 ### 🌱 I’m currently learning everything 
 * Data Structures and Algorithms
 * Machine Learning
