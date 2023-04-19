@@ -1,4 +1,4 @@
-# Hi there, I'm Jainik Bakshi 👋 
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65659074/232963775-dbb6e772-f935-4e67-b107-081efaa4362b.gif">
